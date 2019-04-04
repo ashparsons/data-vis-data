@@ -1,0 +1,36 @@
+{
+    "spoken-languages":{
+        "spoken-language":[
+            {
+                "Mandarin":1100000000
+            },
+            {
+                "English":938000000
+            },
+            {
+                "Hindustani":544000000
+            },
+            {
+                "Spanish":527000000
+            },
+            {
+                "Arabic":422000000
+            },
+            {
+                "Malay":281000000
+            },
+            {
+                "Russian":267000000
+            },
+            {
+                "Bengali":261000000
+            },
+            {
+                "Portuguese":229000000
+            },
+            {
+                "French":229000000
+            }
+        ]
+    }
+}

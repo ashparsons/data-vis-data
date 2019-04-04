@@ -1,0 +1,21 @@
+{
+    "living-languages":{
+        "living-language":[
+            {
+                "Asia":2310
+            },
+            {
+                "Africa":2138
+            },
+            {
+                "Pacific":1313
+            },
+            {
+                "Americas":1064
+            },
+            {
+                "Europe":286
+            }
+        ]
+    }
+}

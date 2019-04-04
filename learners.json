@@ -1,0 +1,27 @@
+{
+    "learned-languages":{
+        "learned-language":[
+            {
+                "English":1500000000
+            },
+            {
+                "French":82000000
+            },
+            {
+                "Chinese":30000000
+            },
+            {
+                "Spanish":14500000
+            },
+            {
+                "Gernam":14500000
+            },
+            {
+                "Italian":8000000
+            },
+            {
+                "Japanese":3000000
+            }
+        ]
+    }
+}

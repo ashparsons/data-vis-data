@@ -1,0 +1,36 @@
+{
+    "spoken-languages":{
+        "spoken-language":[
+            {
+                "English":101
+            },
+            {
+                "Arabic":60
+            },
+            {
+                "French":51
+            },
+            {
+                "Chinese":33
+            },
+            {
+                "Spanish":31
+            },
+            {
+                "Persian":29
+            },
+            {
+                "German":18
+            },
+            {
+                "Russian":16
+            },
+            {
+                "Malaysian":13
+            },
+            {
+                "Portuguese":12
+            }
+        ]
+    }
+}
