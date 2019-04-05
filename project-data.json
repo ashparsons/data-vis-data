@@ -1,0 +1,66 @@
+{
+    "languages":{
+        "language":[
+            {
+                "name" : "English",
+                "countriesSpoken": 101,
+                "speakers" : 938000000,
+                "learners" : 1500000000
+            },
+            {
+                "name" : "Chinese",
+                "countriesSpoken": 33,
+                "speakers" : 1197000000,
+                "learners" : 30000000
+            },
+            {
+                "name" : "French",
+                "countriesSpoken": 51,
+                "speakers" : 229000000,
+                "learners" : 82000000
+            },
+            {
+                "name" : "Spanish",
+                "countriesSpoken": 31,
+                "speakers" : 527000000,
+                "learners" : 14500000
+            },
+            {
+                "name" : "German",
+                "countriesSpoken": 18,
+                "speakers" : 95000000,
+                "learners" : 14500000
+            },
+            {
+                "name" : "Arabic",
+                "countriesSpoken": 60,
+                "speakers" : 422000000,
+                "learners" : 30000000
+            },
+            {
+                "name" : "Russian",
+                "countriesSpoken": 16,
+                "speakers" : 267000000,
+                "learners" : 15000000
+            },
+            {
+                "name" : "Portuguese",
+                "countriesSpoken": 12,
+                "speakers" : 229000000,
+                "learners" : 14500000
+            },
+            {
+                "name" : "Italian",
+                "countriesSpoken": 29,
+                "speakers" : 64000000,
+                "learners" : 8000000
+            },
+            {
+                "name" : "Japanese",
+                "countriesSpoken": 31,
+                "speakers" : 128000000,
+                "learners" : 3000000
+            }
+        ]
+    }
+}
