@@ -1,6 +1,6 @@
 {
-    "spoken-languages":{
-        "spoken-language":[
+    "spokenLanguages":{
+        "spokenLanguage":[
             {
                 "name": "Mandarin",
                 "speakers":1100000000
