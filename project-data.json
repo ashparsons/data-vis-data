@@ -3,61 +3,71 @@
         "language":[
             {
                 "name" : "English",
-                "countriesSpoken": 101,
+                "countriesSpoken_first": 101,
+                "countriesSpoken_second": 55,
                 "speakers" : 938000000,
                 "learners" : 1500000000
             },
             {
                 "name" : "Chinese",
-                "countriesSpoken": 33,
+                "countriesSpoken_first": 33,
+                "countriesSpoken_second": 3,
                 "speakers" : 1197000000,
                 "learners" : 30000000
             },
             {
                 "name" : "French",
-                "countriesSpoken": 51,
+                "countriesSpoken_first": 51,
+                "countriesSpoken_second": 14,
                 "speakers" : 229000000,
                 "learners" : 82000000
             },
             {
                 "name" : "Spanish",
-                "countriesSpoken": 31,
+                "countriesSpoken_first": 31,
+                "countriesSpoken_second": 8,
                 "speakers" : 527000000,
                 "learners" : 14500000
             },
             {
                 "name" : "German",
-                "countriesSpoken": 18,
+                "countriesSpoken_first": 18,
+                "countriesSpoken_second": 4,
                 "speakers" : 95000000,
                 "learners" : 14500000
             },
             {
                 "name" : "Arabic",
-                "countriesSpoken": 60,
+                "countriesSpoken_first": 60,
+                "countriesSpoken_second": 6,
                 "speakers" : 422000000,
                 "learners" : 30000000
             },
             {
                 "name" : "Russian",
-                "countriesSpoken": 16,
+                "countriesSpoken_first": 16,
+                "countriesSpoken_second": 13,
                 "speakers" : 267000000,
                 "learners" : 15000000
             },
             {
                 "name" : "Portuguese",
-                "countriesSpoken": 12,
+                "countriesSpoken_first": 12,
+                "countriesSpoken_second": 4,
                 "speakers" : 229000000,
                 "learners" : 14500000
             },
             {
                 "name" : "Italian",
-                "countriesSpoken": 29,
+                "countriesSpoken_first": 29,
+                "countriesSpoken_second": 3,
                 "speakers" : 64000000,
                 "learners" : 8000000
             },
             {
                 "name" : "Japanese",
-                "countriesSpoken": 31,
+                "countriesSpoken_first": 31,
+                "countriesSpoken_second": 7,
                 "speakers" : 128000000,
                 "learners" : 3000000
             }
