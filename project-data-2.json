@@ -1,0 +1,26 @@
+{
+    "languages":{
+        "language":[
+            {
+                "name" : "Africa",
+                "living": 2138
+            },
+            {
+                "name" : "Asia",
+                "living": 2301
+            },
+            {
+                "name" : "Pacific",
+                "living": 1313
+            },
+            {
+                "name" : "Americas",
+                "living": 1064
+            },
+            {
+                "name" : "Europe",
+                "living": 286
+            }
+        ]
+    }
+}
