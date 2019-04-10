@@ -1,0 +1,18 @@
+{
+    "languages":{
+        "language":[
+            {
+                "name" : "CSL",
+                "signers": 2000000
+            },
+            {
+                "name" : "ASL",
+                "signers": 500000
+            },
+            {
+                "name" : "BSL",
+                "signers": 77000
+            }
+        ]
+    }
+}
